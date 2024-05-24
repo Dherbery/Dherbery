@@ -46,13 +46,13 @@
 
 - I’m currently learning the triaging process using SIEM according to the playbooks and the knowledge base.
 
-- I’m currently learning Nessus for vulnerability accessment and microsft 365 defender for Incident Response
+- I’m currently learning Nessus for vulnerability accessment and Microsft 365 Defender for Incident Response
 
 - Practicing the use of mettre ATT&CK as a foundation for the development of specific threat models and methodologies.
 
 - Practicing the use of QRadar(SIEM), IDS, IPS, firewall, Cylance, RedCloak, McAfee antivirus, and other tools to monitor and analyze cyber security incidents.
 
-- Building my skills in Mobile and Desktop UIX design using figma and protopie
+- Building my skills in Mobile and Desktop UIX design using Figma and protopie
 
 - Taking a new challenge on learning and acquiring skills on Quality Assurance Engineer
 
