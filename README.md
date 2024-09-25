@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Pentesting, Digital Forensics, and Incidence Response, SOC, Quality Assurance Engineer**
 
-- 👯 I’m looking to collaborate on **anything IT related, cybersecurity -related, product Development, Quality Assurance, UIX/UI**
+- 👯 I’m looking to collaborate on **anything IT-related, cybersecurity-related, Product Development, Software Development, Quality Assurance, UIX/UI**
 
 - 🤝 I’m looking for help with **Product UIX/UI**
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Cybersecurity, Women in Tech, Product Development, Quality Assurance, UIX**
 
-- ⚡ Fun fact **I am foody**
+- ⚡ Fun fact **I am foodie**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -54,7 +54,7 @@
 
 - Building my skills in Mobile and Desktop UIX design using Figma and protopie
 
-- Taking a new challenge on learning and acquiring skills on Quality Assurance Engineer
+- Taking a new challenge on learning and acquiring skills as Quality Assurance Engineer
 
 - Learning along side Product Development and Product Management
 
